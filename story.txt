@@ -1,0 +1,4 @@
+Once upon a time, a <adjective> <animal> decided to visit the <place>.
+It brought a <noun> and wore a <color> <piece of clothing>.
+Along the way, it met a <adjective> <person>.
+Together, they danced until <time>.
