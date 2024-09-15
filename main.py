@@ -4,8 +4,8 @@
 # step 4 - now copy that story and come back to the IDE that you are going to be using for this project
 # step 5 - open a new file right next to your main Python/project file and name it "story.txt"
 # step 6 - you can also use the stories that I have provided
-# step 6 - paste the copied story in that text file
-# step 7 - start coding
+# step 7 - paste the copied story in that text file
+# step 8 - start coding
 
 
 with open("story.txt", "r") as f:
